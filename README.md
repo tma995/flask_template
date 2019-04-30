@@ -12,6 +12,6 @@
     │   ├── __init__.py
     │   └── routes.py
     ├── wrangling_scripts
-    │   └── wrangle_data.py         # figure plots generation and data processing
+    │   └── wrangle_data.py             # figure plots generation and data processing
     ├── README.md    
-    └── myapp.py                    # app start script
+    └── myapp.py                        # app start script
